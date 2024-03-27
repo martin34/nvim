@@ -1,5 +1,6 @@
 local telescope = require("telescope")
 return {
+  { "nvim-neotest/nvim-nio" },
   { "szw/vim-maximizer" },
   { "rcarriga/nvim-dap-ui" },
   {
