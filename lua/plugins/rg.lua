@@ -1,4 +1,4 @@
 return {
   { "duane9/nvim-rg" },
-  { dir = "~/repo/terminal-split", opts = {} },
+  { "martin34/terminal-split", opts = {} },
 }
